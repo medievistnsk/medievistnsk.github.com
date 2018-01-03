@@ -10,9 +10,9 @@ div, p, input, button, a {
 }
 
 p {
-    margin-top: 0.5em;
-    margin-bottom: 1.6em;
-	line-height: 1.38em;
+    margin-top: 0.2em;
+    margin-bottom: 0.4em;
+	line-height: 1.2em;
 }
 
 
@@ -78,7 +78,34 @@ article {
 .f57px {font-size: 57px;}
 .f58px {font-size: 58px;}
 .f59px {font-size: 59px;}
-
+.f60px {font-size: 60px;}
+.f61px {font-size: 61px;}
+.f62px {font-size: 62px;}
+.f63px {font-size: 63px;}
+.f64px {font-size: 64px;}
+.f65px {font-size: 65px;}
+.f66px {font-size: 66px;}
+.f67px {font-size: 67px;}
+.f68px {font-size: 68px;}
+.f69px {font-size: 69px;}
+.f70px {font-size: 70px;}
+.f71px {font-size: 71px;}
+.f72px {font-size: 72px;}
+.f73px {font-size: 73px;}
+.f74px {font-size: 74px;}
+.f75px {font-size: 75px;}
+.f76px {font-size: 76px;}
+.f77px {font-size: 77px;}
+.f78px {font-size: 78px;}
+.f79px {font-size: 79px;}
+.f80px {font-size: 80px;}
+.f81px {font-size: 81px;}
+.f82px {font-size: 82px;}
+.f83px {font-size: 83px;}
+.f84px {font-size: 84px;}
+.f85px {font-size: 85px;}
+.f86px {font-size: 86px;}
+.f87px {font-size: 87px;}
 
 .upper {
 	text-transform: uppercase;
@@ -92,6 +119,10 @@ article {
 	margin: 0px auto;
 }
 
+.righter {
+	float: right;
+}
+
 #one {
 	background-color: #3f51b5; 
 	height: 100vh;
@@ -100,11 +131,12 @@ article {
 }
 
 .title {
-	padding: 15vh;
+	padding: 9vh;
+	text-shadow: 4px 4px 12px rgba(0, 0, 0, 0.4);
 }
 
 .calculate {
-	
+	margin-top: 16vh;
 }
 
 .act {
@@ -122,13 +154,30 @@ background: transparent;
 border: 0px;
 border-bottom: 1px solid #ffffff;
 padding: 10px 0px;
-width: 230px;
+width: 140px;
 margin: 20px;
+color: #ffffff;
 }
 
 
 form {
 	text-align: center;
-	margin: 40px auto;
+	margin: 5px auto;
 }
 
+::placeholder {
+	color: #ffffff;
+	opacity: 0.3;
+}
+
+.signup {
+	font-weight: 700;
+	text-transform: uppercase;
+	border-radius: 5px;
+	padding: 8px 25px;
+	margin-top: 15px;
+	border: 1px solid #ffffff;
+	background: transparent;
+	color: #ffffff;
+	cursor: pointer;
+}
