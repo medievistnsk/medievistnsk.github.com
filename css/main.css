@@ -17,9 +17,7 @@ p {
 
 
 article {
-	width: 1170px;
 	margin: 0px auto;
-	position: relative;
 }
 
 
@@ -180,4 +178,5 @@ form {
 	background: transparent;
 	color: #ffffff;
 	cursor: pointer;
+
 }
