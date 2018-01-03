@@ -117,10 +117,6 @@ article {
 	margin: 0px auto;
 }
 
-.righter {
-	float: right;
-}
-
 #one {
 	background-color: #3f51b5; 
 	height: 100vh;
@@ -174,9 +170,12 @@ form {
 	border-radius: 5px;
 	padding: 8px 25px;
 	margin-top: 15px;
+	margin-right: 0px;
 	border: 1px solid #ffffff;
 	background: transparent;
 	color: #ffffff;
 	cursor: pointer;
+	position: absolute;
+	right: 15px;
 
 }
