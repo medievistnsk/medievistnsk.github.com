@@ -1,0 +1,134 @@
+body {
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Asap', sans-serif;
+	color: #ffffff;
+}
+
+div, p, input, button, a {
+	box-sizing: border-box;
+}
+
+p {
+    margin-top: 0.5em;
+    margin-bottom: 1.6em;
+	line-height: 1.38em;
+}
+
+
+article {
+	width: 1170px;
+	margin: 0px auto;
+	position: relative;
+}
+
+
+.clearfix:after {
+	content:'';
+	display: table;
+	width: 100%;
+}
+
+.f11px {font-size: 11px;}
+.f12px {font-size: 12px;}
+.f13px {font-size: 13px;}
+.f14px {font-size: 14px;}
+.f15px {font-size: 15px;}
+.f16px {font-size: 16px;}
+.f17px {font-size: 17px;}
+.f18px {font-size: 18px;}
+.f19px {font-size: 19px;}
+.f20px {font-size: 20px;}
+.f21px {font-size: 21px;}
+.f22px {font-size: 22px;}
+.f23px {font-size: 23px;}
+.f24px {font-size: 24px;}
+.f25px {font-size: 25px;}
+.f26px {font-size: 26px;}
+.f27px {font-size: 27px;}
+.f28px {font-size: 28px;}
+.f29px {font-size: 29px;}
+.f30px {font-size: 30px;}
+.f31px {font-size: 31px;}
+.f32px {font-size: 32px;}
+.f33px {font-size: 33px;}
+.f34px {font-size: 34px;}
+.f35px {font-size: 35px;}
+.f36px {font-size: 36px;}
+.f37px {font-size: 37px;}
+.f38px {font-size: 38px;}
+.f39px {font-size: 39px;}
+.f40px {font-size: 40px;}
+.f41px {font-size: 41px;}
+.f42px {font-size: 42px;}
+.f43px {font-size: 43px;}
+.f44px {font-size: 44px;}
+.f45px {font-size: 45px;}
+.f46px {font-size: 46px;}
+.f47px {font-size: 47px;}
+.f48px {font-size: 48px;}
+.f49px {font-size: 49px;}
+.f50px {font-size: 50px;}
+.f51px {font-size: 51px;}
+.f52px {font-size: 52px;}
+.f53px {font-size: 53px;}
+.f54px {font-size: 54px;}
+.f55px {font-size: 55px;}
+.f56px {font-size: 56px;}
+.f57px {font-size: 57px;}
+.f58px {font-size: 58px;}
+.f59px {font-size: 59px;}
+
+
+.upper {
+	text-transform: uppercase;
+}
+
+.aligner {
+	text-align: center;
+}
+
+.centro {
+	margin: 0px auto;
+}
+
+#one {
+	background-color: #3f51b5; 
+	height: 100vh;
+	position: relative;
+	box-shadow: 0px 10px 40px #0003;
+}
+
+.title {
+	padding: 15vh;
+}
+
+.calculate {
+	
+}
+
+.act {
+	font-weight: 400;
+	text-transform: uppercase;
+	border-radius: 5px;
+	padding: 15px 35px;
+	border: 1px solid #ffffff;
+	background: transparent;
+	color: #ffffff;
+}
+
+.cell {
+background: transparent;
+border: 0px;
+border-bottom: 1px solid #ffffff;
+padding: 10px 0px;
+width: 230px;
+margin: 20px;
+}
+
+
+form {
+	text-align: center;
+	margin: 40px auto;
+}
+
