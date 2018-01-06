@@ -182,12 +182,12 @@ form {
 }
 
 .main-menu {
-	margin-top: 2vh;
 	width: 70%;
+	float: left;
 }
 
 .main-menu li {
 	text-decoration: none;
-	display: inline;
+	display: inline-block;
 	margin-right: 35px;
 }
