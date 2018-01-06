@@ -175,7 +175,6 @@ form {
 	color: #ffffff;
 	cursor: pointer;
 	float: right;
-	margin-top: 2vh;
 }
 
 .menu {
@@ -184,6 +183,7 @@ form {
 
 .main-menu {
 	margin-top: 2vh;
+	width: 70%;
 }
 
 .main-menu li {
